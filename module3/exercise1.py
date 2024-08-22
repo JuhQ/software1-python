@@ -1,1 +1,3 @@
-print("Hello from exercise 1 of module 3. This is an example.")
+print("Hi! This is example")
+
+print(1 + 2)
