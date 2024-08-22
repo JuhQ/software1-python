@@ -1,0 +1,1 @@
+print("Hello from exercise 1 of module 3. This is an example.")
