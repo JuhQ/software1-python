@@ -11,4 +11,6 @@ print(f"Area: {area:.2f}")
 print(f"Area: {area:<26.2f}")
 print(f"Area: {area}")
 
+print(f"Test: {area:.0f}")
+
 print("Perimeter: " + str(perimeter))
